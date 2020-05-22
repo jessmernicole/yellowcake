@@ -1,16 +1,13 @@
 ---
 template: DefaultPage
 slug: test slug
-title: This is a test info page
+title: About Me
 featuredImage: >-
   https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
   description: test meta description
   title: test meta title
 ---
+I am Jessmer Nicole Norteza, a **freelance content writer** and a licensed professional teacher based in the Philippines. 
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language.
-
-Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website. This paragraph has been copied from a program that automatically generates paragraphs like this.
-
-**It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.**
+I have acquired a degree in Secondary English teaching and is still up for continuous learning and growth through post-graduate studies. Although I could have been in the field of education given my content and pedagogical acquisition through the years in the academe, my passion for writing has brought me here in this career path and with that, I have grown consistently stoked in developing my craft, to give unprecedented service to my clients.
