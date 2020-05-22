@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Jessmer Nicole
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/0292da68-16ec-41b7-8732-d1fb7e8c9441/'
 subtitle: Catch Phrase
 meta:
   canonicalLink: >-
@@ -15,7 +15,7 @@ meta:
     Jessmer Nicole - Freelance Content Writer and Licensed Professional English
     Teacher
 ---
-Hi, I'm a Freelance Content Writer and Licensed Professional English Teacher something something
+Hi, I'm a Freelance Content Writer and Licensed Professional English Teacher.
 
 # Features
 
