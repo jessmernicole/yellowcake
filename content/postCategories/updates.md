@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
-title: Work Portfolio
-subtitle: 'This is a compendium of works delivered to my clients. '
+title: Writing Portfolio
+subtitle: 'Explore through this compendium of work delivered to my lovable clients. '
 featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
 ---
 
