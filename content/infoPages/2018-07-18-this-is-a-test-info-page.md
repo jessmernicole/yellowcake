@@ -2,8 +2,7 @@
 template: DefaultPage
 slug: test slug
 title: About Me
-featuredImage: >-
-  https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
+featuredImage: 'https://ucarecdn.com/a2aef939-fbd8-4439-81e7-92080f65ff0b/'
 meta:
   description: test meta description
   title: test meta title
