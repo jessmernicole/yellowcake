@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Jessmer Nicole
+title: Welcome! I am Jessmer Nicole!
 featuredImage: 'https://ucarecdn.com/7a32de1f-8b6b-4d06-a7e6-c07f400aa3b0/'
-subtitle: Catch Phrase
+subtitle: ''
 meta:
   canonicalLink: >-
     Jessmer Nicole - Freelance Content Writer and Licensed Professional English
@@ -15,21 +15,14 @@ meta:
     Jessmer Nicole - Freelance Content Writer and Licensed Professional English
     Teacher
 ---
-Hi, I'm a Freelance Content Writer and Licensed Professional English Teacher.
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+```
 
-## Get started
+```
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+Hello! This is **Jessmer Nicole**. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Discover the latitude and promise of **WRITING** - ****as means of _motivating, marketing, bridging gaps,_ and making _insightful_ and _powerful ideas come to life_. 
+
+Allow me to endow you with security and confidence as I help you create and ensure promising articles before they go published!
