@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Miscellaneous
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/ad63acac-1e32-41a1-8743-f5e892bc17a3/'
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component
