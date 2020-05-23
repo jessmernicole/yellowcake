@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Jessmer Nicole
-featuredImage: 'https://ucarecdn.com/39f83f4d-0614-4c86-8f1a-060fdc83b920/'
+featuredImage: 'https://ucarecdn.com/7a32de1f-8b6b-4d06-a7e6-c07f400aa3b0/'
 subtitle: Catch Phrase
 meta:
   canonicalLink: >-
