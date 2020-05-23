@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Let's work together!
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: '# This is the contact page subtitle.'
+subtitle: '# ...'
 address: Philippines
 phone: (63) 9178780282
 email: nicolejessmer@gmail.com
@@ -15,4 +15,4 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-# For any projects that I may be of help, or something that we can work on, please reach me through the form below. See you on the inside!
+# For any projects that I may be of help, or something that we can work on, please feel free to reach out. See you on the inside!
